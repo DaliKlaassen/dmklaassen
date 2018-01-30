@@ -1,0 +1,19 @@
+-----------------------------
+SEO BACKLOG TODO LIST
+-----------------------------
+Voor de website van Dalí Klaassen
+(https://www.dmklaassen.nl)
+
+------
+ TODO
+------
+META:
+- Add page description
+- Add page Keywords
+- Add robot.txt file
+- Add sitemap
+- Add Favicon
+
+CONTENT:
+- Add page DOCTYPE
+- Replace DOFOLLOW by NOFOLLOW

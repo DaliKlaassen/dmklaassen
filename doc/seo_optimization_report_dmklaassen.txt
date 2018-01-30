@@ -1,0 +1,46 @@
+﻿-----------------------------
+SEO OPTIMIZATION REPORT 
+-----------------------------
+voor de website van Dalí Klaassen.
+(https://www.dmklaassen.nl)
+Optimalisatieslag 1.
+
+-----------------------------
+Automatische Checks en tools:
+-----------------------------
+We hebben een aantal automatische checks gedaan en tools losgelaten op uw site:
+TOOLS:
+-http://www.websiteseocheck.nl/
+
+Hieruit kwamen de volgende (mogelijke) verbeterpunten naar voren:
+
+-----------------------------
+PRIORETISERING ACTIES PER PAGINA (1/2)
+-----------------------------
+Index - pagina
+-----------------------------
+META:
+-No description
+-No keywords
+-No robots.txt
+-No sitemap
+-No Favicon
+
+CONTENT:
+-No DOC type
+
+-no follow, no index, dofollow bij external links (en interne links?).
+page size:7 KB	
+GZIP compression is ingeschakelt.	
+-Uw website heeft geen inline css regels.		
+-Uw website is negatief beoordeeld op microdata.
+-Site faalde voor IP canonicalization test.	
+-Site faalde voor URL canonicalization test.	
+
+GOOGLE PREVIEW optimaliseren:	
+Dalí Klaassen | Portfolio
+https://www.dmklaassen.nl/
+Dalí Klaassen Media/Web Developer | Back -en frontend developer | Student at MediaCollege Amsterdam
+
+
+ 
